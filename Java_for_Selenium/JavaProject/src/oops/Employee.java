@@ -23,6 +23,14 @@ public class Employee {
 		emp1.salary=2000;
 		emp1.deptno=10;
 		emp1.display();
+		
+		Employee emp2=new Employee();
+		emp2.empid=1000;
+		emp2.empname="Liudmyla";
+		emp2.salary=4500;
+		emp2.deptno=10;
+		
+		emp2.display();
 	}
 	
 }
