@@ -1,0 +1,15 @@
+liudmyla.lavrenchuk@KBP1-LHP-F76840 MINGW64 ~/Desktop/AutoQA/become-qa-auto/llavrenchuk/Java_for_Selenium (master)
+$ git remote -v
+origin  git@github.com:SergiiButenko/become-qa-auto.git (fetch)
+origin  git@github.com:SergiiButenko/become-qa-auto.git (push)
+
+liudmyla.lavrenchuk@KBP1-LHP-F76840 MINGW64 ~/Desktop/AutoQA/become-qa-auto/llavrenchuk/Java_for_Selenium (master)
+$ git remote set-url origin git@github.com:Liudmyla235/git-demo.git
+
+liudmyla.lavrenchuk@KBP1-LHP-F76840 MINGW64 ~/Desktop/AutoQA/become-qa-auto/llavrenchuk/Java_for_Selenium (master)
+$ git remote -v
+origin  git@github.com:Liudmyla235/git-demo.git (fetch)
+origin  git@github.com:Liudmyla235/git-demo.git (push)
+
+liudmyla.lavrenchuk@KBP1-LHP-F76840 MINGW64 ~/Desktop/AutoQA/become-qa-auto/llavrenchuk/Java_for_Selenium (master)
+$
